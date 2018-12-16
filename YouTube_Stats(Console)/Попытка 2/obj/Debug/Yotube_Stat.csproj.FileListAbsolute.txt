@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Попытка 2.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Попытка 2.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Попытка 2.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\obj\Debug\Yotube_Stat.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\obj\Debug\Попытка 2.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Попытка 2\Попытка 2\obj\Debug\Попытка 2.pdb
+C:\Users\user\Documents\GitHub\YouTube_Stats\Попытка 2\bin\Debug\Попытка 2.exe.config
+C:\Users\user\Documents\GitHub\YouTube_Stats\Попытка 2\obj\Debug\Попытка 2.exe
+C:\Users\user\Documents\GitHub\YouTube_Stats\Попытка 2\obj\Debug\Попытка 2.pdb
